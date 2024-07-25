@@ -94,7 +94,7 @@ img {
     min-height: 100vh;
     margin-top: -100px;
     padding: 240px 0;
-    background-image: url('./images/welcome-bg.jpg');
+    background-image: url("images/welcome-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -243,16 +243,16 @@ img {
     margin-top: 10px;
 }
 .card-queen {
-    background-image: url(./images/product-1.jpg);
+    background-image: url("images/product-1.jpg");
 }
 .card-hut {
-    background-image: url(./images/product-2.jpg);
+    background-image: url("images/product-2.jpg");
 }
 .card-king{
-    background-image: url(./images/product-3.jpg);
+    background-image: url("images/product-3.jpg");
 }
 .card-Jhon {
-    background-image: url(./images/product-4.jpg);
+    background-image: url("images/product-4.jpg");
 }
 
 /*FeedBack*/
@@ -341,12 +341,12 @@ img {
     margin-top: 10px;
 }
 .footer__link::before {
-    content: url(./images/icons/global.svg);
+    content: url(images/icons/global.svg);
     margin-right: 10px;
     height: 12px;
 }
 .footer__link-mail::before {
-    content: url(./images/icons/mail.svg);
+    content: url(images/icons/mail.svg);
 }
 .footer__list {
     display: grid;
